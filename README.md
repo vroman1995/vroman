@@ -1,3 +1,3 @@
 ### Hola
-#Hola, mi nombre es Vicente Román
+Hola, mi nombre es Vicente Román
 
